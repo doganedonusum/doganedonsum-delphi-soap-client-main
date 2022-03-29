@@ -1,5 +1,5 @@
 # ws-client-delphi
-Web servis methodları ile ilgili detaylı bilgi için [DoğanE-Dönüşüm Entegrasyon Kılavuzu](https://www.doganedonusum.com/dev/)nu inceleyiniz.
+Web servis methodları ile ilgili detaylı bilgi için [Doğan E-Dönüşüm Entegrasyon Kılavuzu](https://www.doganedonusum.com/dev/)nu inceleyiniz.
 
 Delphi Client Örnek projesi
 - Kimlik Doğrulama Web Servisi (IzibizAuth.pas,AuthenticationWS.pas)
